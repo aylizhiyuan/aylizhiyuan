@@ -1,5 +1,4 @@
-# :construction_worker: 李志远
-独立开发者、学科带头人、前端架构师、Tech Lead
+# :construction_worker: Ethan
 
-目前方向: web3 / 爬虫 / 逆向 / Rust / Node / 分布式计算
+EarnBot provides professional information support around the clock by monitoring major social media and on-chain data in real-time. Our bot helps you precisely track hotspots in the cryptocurrency market, comprehensively monitor data changes, and provide reliable support for your investment decisions.
 
