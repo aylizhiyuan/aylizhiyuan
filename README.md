@@ -5,6 +5,7 @@
 技术方向: Rust / Node / 爬虫 / 分布式 / 数据库  / 操作系统 / 网络 
 
 第一代推特爬虫代码展示: https://github.com/aylizhiyuan/twitter-crawler 
+比特币入门: https://github.com/aylizhiyuan/solidity 
 
 最近在搞第一版区块链，敬请期待....
 
