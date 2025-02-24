@@ -1,8 +1,15 @@
 # Hi there 👋
 
+Twitter-Crawler
+
+Solidity... 
+
+wait....
 
 
 ## 🌟 About Me
+
+💻 I am a full-stack developer with over 10 years of Web2 experience. 🚀I am currently building a startup in the Web3 space and am a BTC holder💰
 
 
 ## 🛠️ Tech Stack
