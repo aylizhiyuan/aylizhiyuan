@@ -15,7 +15,7 @@
 ## Connect with me 🌐
 
 - 📧 [E-mail](mailto:lizhiyuan2023@gmail.com)
-- 💬 [WeChat](aylizhiyuan)
+- 💬 [Telegram](https://t.me/lizhiyuan2023)
 
 
 
