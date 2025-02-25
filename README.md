@@ -1,8 +1,8 @@
 # Hi there 👋
 2025计划
 
-- 📈以太坊/比特币 知识梳理,成为专家 https://github.com/aylizhiyuan/solidity
-- 📈K线图、量化知识梳理,成为专家  https://github.com/aylizhiyuan/kkk
+- 📈以太坊/比特币  https://github.com/aylizhiyuan/solidity
+- 📈K线图、量化  https://github.com/aylizhiyuan/kkk
 - 🇺🇸英语熟练 
 - 🎬youtuber自媒体起步
 - 🏠黑客、money、快乐 
