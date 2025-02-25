@@ -4,8 +4,8 @@
 - 📈以太坊/比特币  https://github.com/aylizhiyuan/solidity
 - 📈K线图、量化  https://github.com/aylizhiyuan/kkk
 - 🇺🇸英语熟练 
+- 🏠黑客、money、快乐  https://github.com/aylizhiyuan/build-your-own-x
 - 🎬youtuber自媒体起步
-- 🏠黑客、money、快乐 
 
 
 ## 🌟 About Me
