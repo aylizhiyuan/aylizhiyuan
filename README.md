@@ -1,10 +1,9 @@
 # Hi there 👋
-2025计划
+2025计划,每天进步一点点即可,享受生活,享受简单的快乐
 
 - 📈以太坊/比特币  https://github.com/aylizhiyuan/solidity
 - 📈K线图、量化  https://github.com/aylizhiyuan/kkk
-- 🇺🇸英语熟练 
-- 🏠黑客、money、快乐  https://github.com/aylizhiyuan/build-your-own-x
+- 🇺🇸英语熟练  https://github.com/aylizhiyuan/english-learning
 - 🎬youtuber自媒体起步
 
 
