@@ -4,7 +4,7 @@
 - 📈以太坊/比特币  https://github.com/aylizhiyuan/solidity
 - 📈K线图、量化  https://github.com/aylizhiyuan/kkk
 - 🇺🇸英语熟练  https://github.com/aylizhiyuan/english-learning
-- 🎬youtuber自媒体起步
+- 🎬youtuber自媒体起步 https://github.com/aylizhiyuan/build-your-own-x 从零开始系列视频
 
 
 ## 🌟 About Me
