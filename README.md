@@ -23,6 +23,7 @@
 
 - 📧 [E-mail](mailto:lizhiyuan2023@gmail.com)
 - 💬 [Telegram](https://t.me/lizhiyuan2023)
+- wechat: aylizhiyuan 
 
 
 
