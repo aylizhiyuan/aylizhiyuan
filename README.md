@@ -14,7 +14,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** C/C++, Rust/Solidity, JavaScript/TypeScript, NodeJS
+- **Languages:** C/C++, Rust/Solidity, Python/NodeJS, JavaScript/TypeScript
 - **Frameworks:**  React/Vue, NextJS/Vite, MUI/Antd, Express/Koa, Sass/TailwindCss, Gsap/SVG/Canvas, ThreeJS, Web3.js/Ether.js
 - **Tools:** Git, Docker, VS Code, PlayWright, Zsh, Wireshark, hardhat
 - **Databases:** PostgreSQL, MongoDB, MySql
